@@ -1,11 +1,14 @@
-<h2 align="center">Hi there 👋 I'm Jose and I like turning data into insights!</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/jose-marquez89/jose-marquez89.github.io/master/favicon.png" alt="josemarquez.tech logo"/>
 </p>
+<h2 align="center">Hi there 👋 I'm Jose and I like turning data into insights!</h2>
 
-- 🔭 I’m currently working on an analysis of the [current hiring landscape](https://github.com/jose-marquez89/tech-job-landscape)
-- 💬 Ask [me](https://www.josemarquez.tech) about how I can help contribute to your data challenges
-- 📫 How to reach me: [Email](mailto:jose@josemarquez.tech) | [LinkedIn](https://www.linkedin.com/in/jose-marquez89/) | [Twitter](https://twitter.com/jlmarquez89)
+  <p align="center">🔭 I’m currently working on an analysis of the <a href="https://github.com/jose-marquez89/tech-job-landscape">current hiring landscape</a></p>
+  <p align="center">💬 Ask <a href="https://www.josemarquez.tech">me</a> about how I can help with your data challenges</p>
+  <p align="center">📫 How to reach me: <a href="mailto:jose@josemarquez.tech">Email</a> | <a href="https://www.linkedin.com/in/jose-marquez89/">LinkedIn</a> | <a href="https://twitter.com/jlmarquez89">Twitter</a></p>
+  
+  
+  <a href="mailto:jose@josemarquez.tech">Email</a>
 <!--
 **jose-marquez89/jose-marquez89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
