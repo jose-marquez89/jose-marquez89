@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Jose and I like turning data into insights! ![logo](https://raw.githubusercontent.com/jose-marquez89/jose-marquez89.github.io/master/favicon.png)
 
+- 🔭 I’m currently working on an analysis of the [current hiring landscape](https://github.com/jose-marquez89/tech-job-landscape)
+- 💬 Ask [me](https://www.josemarquez.tech) about how I can help contribute to your data challenges
+- 📫 How to reach me: [Email](mailto:jose@josemarquez.tech) | [LinkedIn](https://www.linkedin.com/in/jose-marquez89/) | [Twitter](https://twitter.com/jlmarquez89)
 <!--
 **jose-marquez89/jose-marquez89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
