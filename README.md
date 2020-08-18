@@ -1,4 +1,7 @@
-### Hi there 👋 I'm Jose and I like turning data into insights! ![logo](https://raw.githubusercontent.com/jose-marquez89/jose-marquez89.github.io/master/favicon.png)
+<h2 align="center">Hi there 👋 I'm Jose and I like turning data into insights!</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jose-marquez89/jose-marquez89.github.io/master/favicon.png" alt="josemarquez.tech logo"/>
+</p>
 
 - 🔭 I’m currently working on an analysis of the [current hiring landscape](https://github.com/jose-marquez89/tech-job-landscape)
 - 💬 Ask [me](https://www.josemarquez.tech) about how I can help contribute to your data challenges
