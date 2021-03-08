@@ -3,7 +3,7 @@
 </p>
 <h2 align="center">Hi there 👋 I'm Jose and I like turning data into insights!</h2>
 
-  <p align="center">🔭 I’m currently working on an analysis of the <a href="https://github.com/jose-marquez89/tech-job-landscape">current hiring landscape</a></p>
+  <p align="center">🔭 I’m currently working on a plotly dash powered <a href="https://github.com/jose-marquez89/cryptovest">crypto trading web app</a></p>
   <p align="center">💬 Ask <a href="https://www.josemarquez.tech">me</a> about how I can help with your data challenges</p>
   <p align="center">📫 How to reach me: <a href="mailto:jose@josemarquez.tech">Email</a> | <a href="https://www.linkedin.com/in/jose-marquez89/">LinkedIn</a> | <a href="https://twitter.com/jlmarquez89">Twitter</a></p>
 
